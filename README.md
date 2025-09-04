@@ -1,4 +1,4 @@
-# Hub Line Location Problem Using Column Generation (HLLP CG)
+# Column generation and local search for the profit-oriented hub-line location problem with elastic demands
 
 ## Introduction
 Hub Line Location Problems (HLLP) play an essential role in the design of rapid transit corridors and subway lines. In this work we extend the profit-oriented hub-line location problem (ED-HLLP) for which we introduce a column generation method to address the problem of solving the linear relaxation of a mixed-integer model.
